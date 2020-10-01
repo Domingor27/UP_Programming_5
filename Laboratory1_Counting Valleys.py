@@ -1,6 +1,6 @@
 #LABORATORIO N°1
 #PROBLEMA N°2 - Counting Valleys
-#2. Counting valleys -> https://www.hackerrank.com/challenges/counting-valleys/
+#Counting valleys -> https://www.hackerrank.com/challenges/counting-valleys/
 
 #Autor Grupo Mugiwara
 
@@ -8,21 +8,18 @@
 #2. Pérez Yeritzel, 8-872-2088
 #3. Rodriguez Domingo, 9-732-1036
 
-
 import math
 import os
 import random
 import re
 import sys
 
-#
 # Complete la función 'countingValleys' a continuación.
-#
+
 # Se espera que la función devuelva un ENTERO.
 # La función acepta los siguientes parámetros:
 # 1. ENTERO -> Pasos
 # 2. CADENA -> Ruta
-#
 
 def countingValleys(n,s):
 
